@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 :root {
     --primary-color:#1c8591;
   }
@@ -10,7 +14,7 @@
   
   body {
       color: #1c8591;
-      font-family: Helvetica, Arial, sans-serif;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       background-color: rgb(229, 232, 238);
     }
   
@@ -70,14 +74,14 @@
     position: relative;
   }
   
-  /*Add employees photo*/
+  /*Add profile photo*/
 .image2 {
     position: absolute;
     top: 150px;
     left: 30px;
     border: 3px var(--primary-color) solid;
-    height:150px;
-    width: 150px;
+    height:200px;
+    width: 300px;
   }
   
 .hero h2 {
