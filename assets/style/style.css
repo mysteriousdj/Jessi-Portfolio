@@ -61,7 +61,7 @@
 /*apply style to hero image*/
 .hero{
     height: 400px;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/Background.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
