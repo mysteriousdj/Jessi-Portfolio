@@ -62,7 +62,7 @@
   }
 
   
-/*apply style to hero image*/
+/*apply style to background image*/
 .hero{
     height: 400px;
     background-image: url("../images/Background.jpg");
@@ -80,8 +80,8 @@
     top: 150px;
     left: 30px;
     border: 3px var(--primary-color) solid;
-    height:200px;
-    width: 300px;
+    height: 250px;
+    width: 350px;
   }
   
 .hero h2 {
@@ -98,7 +98,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 20px 50px;  
+    margin: 25px 55px;  
     width: 90%;
     align-items: center;
   }
