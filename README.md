@@ -23,4 +23,4 @@ Throughout the index.html and style.css, I included comments to each section for
 
 Project is uploaded to [Github](https://github.com/) at the following [repository.](https://github.com/mysteriousdj/Jessi-Portfolio)
 
-Access to completed [Webpage.](https://mysteriousdj.github.io/Jessi-Portfolio/)
+Access to [Webpage.](https://mysteriousdj.github.io/Jessi-Portfolio/)
