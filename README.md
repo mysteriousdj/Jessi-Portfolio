@@ -21,6 +21,6 @@ Throughout the index.html and style.css, I included comments to each section for
 
 ## Installation
 
-Project is uploaded to [Github](https://github.com/) at the following [repository.](https://github.com/mysteriousdj/horiseon-seo-refractor)
+Project is uploaded to [Github](https://github.com/) at the following [repository.](https://github.com/mysteriousdj/Jessi-Portfolio)
 
-Access to completed [Webpage.](https://mysteriousdj.github.io/horiseon-seo-refractor/)
+Access to completed [Webpage.](https://mysteriousdj.github.io/Jessi-Portfolio/)
